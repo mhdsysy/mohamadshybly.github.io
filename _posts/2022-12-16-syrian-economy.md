@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Repairing the Economy of Syria
 
